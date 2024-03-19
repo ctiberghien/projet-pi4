@@ -4,4 +4,3 @@ Instructions de lancement :
 ```bash
 $ javac -cp src src/app/Launcher.java
 $ java -cp src src/app/Launcher.java
-̀̀̀
